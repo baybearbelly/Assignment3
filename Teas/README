@@ -1,3 +1,18 @@
+/****************************************
+Reviewer 1: You were definitely on the right track here! There are a couple of small changes I made, in the following order, 
+to get your code running:
+
+1. Declared the tabGroup variable on line 73
+2. Opened win1 on line 7
+  At this point, the initial Tea Strength portion of the app is functioning properly.
+3. Declared the tab2 variable (the one for the camera) from line 122 to 127.
+  At this point, there is a navigation tab group at the bottom of the screen, but no tab for the camera.
+4. Added tab2 (the camera tab) to the navigation tab group on line 132.
+  We now have the tea strength tab and camera tab linked together via the navigation tab group and both function.
+
+Good work!
+****************************************/
+
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
