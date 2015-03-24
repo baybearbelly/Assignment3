@@ -1,3 +1,28 @@
+/*Reviewer 1:
+1. My emulator is stuck, it cannot run any  you of code. So I have been used the web browser.
+
+2. It works very good in the color section, and I notice
+you have a tab link to another function when I choose any of the color, I like that one! But it cannot work...I hope the reviewer 2 can run on
+his/her emulator. It might works on emulator but not web browser. 
+
+3. I added semicolon in line 71,74,76
+which should be
+  71 showPhoto(e);
+  74 alert('There was a problem accessing the camera');
+  76 });
+
+4. I added a semicolon in line 103
+which should be
+  103    {showTeaVerdict(e.source.TeaColour);});
+  
+5. The file after correcting since have no error at all, it might able works on emulator, but just still not working on web browser.
+
+What I see is you are very close to the right one even you cannot run on your emulator. Titanium is ..(hateful) and if I can be more 
+familiar with Java S I might able to help find the problems.
+
+Good job!
+
+*/
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
